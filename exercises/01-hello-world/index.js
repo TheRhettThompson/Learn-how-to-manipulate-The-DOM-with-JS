@@ -1,4 +1,3 @@
 //alert here
-    alert! hello
+alert("Hello World")
 
-}
